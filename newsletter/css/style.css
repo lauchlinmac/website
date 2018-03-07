@@ -1,0 +1,132 @@
+.burgundy{
+	color: #ed925b;
+	background-color: #8b003c;
+}
+
+.burgundy a{
+	color: #aaa;
+}
+.burgundy_sidebar{
+	color: 8b003c;
+	background-color: #ed925b;
+}
+
+.burgundy_sidebar a{
+	color: #444;
+}
+
+.ltblue{
+	color: #0017a0;
+	background-color: #00fafd;
+}
+
+.ltblue a{
+	color: #660;
+}
+.ltblue_sidebar{
+	color: #00fafd;
+	background-color: #0017a0;
+}
+
+.ltblue_sidebar a{
+	color: #777;
+}
+
+.ltgreen{
+	color: #44ff44;
+	background-color: #005500;
+			background-image: url("../images/clover.png");
+}
+
+.ltgreen a{
+	color: #999;
+}
+.ltgreen_sidebar{
+	color: #050;
+	background-color: #4f4;
+			background-image: url("../images/clover.png");
+}
+.ltgreen_sidebar a{
+	color: #666;
+}
+
+#page{
+	display: grid;
+	width: 100%;
+	grid-template-areas: "logo header dater"
+			     "main main sidebar"
+			     "foot foot sidebar";
+	grid-template-rows: auto 1fr 100px; 
+	grid-template-columns: auto minmax(250px,1fr)  auto;
+	font-family: "trebuchet ms";
+        grid-row-gap: 5px;
+}
+hr{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+#page > logo{
+	grid-area: logo;
+	border-bottom: 1px solid bottom;
+}
+
+#page > header{
+	grid-area: header;
+	justify-self: end;
+	align-self: end;
+}
+
+
+#page > dater{
+	grid-area: dater;
+	align-self: end;
+	justify-self: end;
+	margin-right: 1em;
+	font-size: 1.5em;
+}
+
+#page > header h1{
+	font-family: "Trebuchet MS";
+	font-size: 3em;
+	font-weight: bold;
+	margin:0;
+	padding: 0;
+}
+
+#page > main{
+	grid-area: main;
+
+}
+
+#page > sidebar{
+	grid-area: sidebar;
+}
+
+#page > sidebar li{
+	margin-right: 20px;
+}
+
+#page > foot{
+	grid-area: foot;
+	align-self: end;
+}
+h2,h3{
+	margin-left: 15px;
+}
+p{
+	margin: 30px;
+}
+#page > foot p{
+margin: 20px 10px;
+}
+/*a {
+	text-decoration: underline;
+	color: #444;
+	font-weight: bold;
+}
+li a{
+	text-decoration: underline;
+	color: #bbb;
+	font-weight: bold;
+}*/

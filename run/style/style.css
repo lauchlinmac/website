@@ -1,0 +1,25 @@
+body {
+	    background-color: #3562b5;
+    }
+
+.container{
+	display: grid;
+	grid-template-columns: auto auto; 
+	grid-template-rows: auto auto;
+	align-content: center;
+	background-color: "#3562b5";
+}
+.item-a{
+	grid-column: 1 / span 2;
+	grid-row: 1/2;
+	text-align: center;
+}
+.item-b{
+ 	grid-column: 1/2;
+	grid-row: 2/2;
+}
+.item-c{
+	grid-column: 2/2;
+	grid-row: 2/2;
+	padding: 5px;
+}

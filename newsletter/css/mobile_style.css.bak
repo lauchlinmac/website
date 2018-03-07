@@ -1,0 +1,84 @@
+#page{
+	display: grid;
+	width: 100%;
+	grid-template-areas: "logo" 
+			      "header"
+			      "dater"
+			     "main"
+			      "sidebar"
+			     "foot";
+	font-family: "trebuchet ms";
+        grid-row-gap: 5px;
+	background: #8b003c;
+	color: #ed925b;
+}
+hr{
+	width: 100%;
+	color: #ed925b;
+	margin: 0;
+	padding: 0;
+}
+#page > logo{
+	grid-area: logo;
+	background-color: #8b003c;
+	border-bottom: 1px solid bottom;
+	justify-self: center;
+}
+
+#page > header{
+	grid-area: header;
+	background-color: #8b003c;
+	justify-self: center;
+	align-self: end;
+}
+
+#page > dater{
+	grid-area: dater;
+	background-color: #8b003c;
+	align-self: end;
+	justify-self: center;
+	font-size: 1.5em;
+}
+
+#page > header h1{
+	font-family: "Trebuchet MS";
+	font-size: 3em;
+	font-weight: bold;
+	margin:0;
+	padding: 0;
+}
+
+#page > main{
+	grid-area: main;
+
+}
+
+#page > sidebar{
+	grid-area: sidebar;
+	background-color: #ed925b;
+	color: #8b003c;
+}
+
+#page > foot{
+	grid-area: foot;
+	align-self: end;
+}
+h2,h3{
+	margin-left: 15px;
+}
+p{
+	margin: 30px;
+}
+#page > foot p{
+margin: 20px 10px;
+}
+a {
+	text-decoration: underline;
+	color: #888;
+	font-weight: bold;
+}
+li a{
+	text-decoration: underline;
+	colod: #444;
+	font-weight:bold;
+}

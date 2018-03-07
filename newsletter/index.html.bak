@@ -1,0 +1,83 @@
+<html>
+<head>
+	<link rel="stylesheet" media='screen and (max-width: 900px)' href="css/mobile_style.css" type="text/css"/>
+	<link rel="stylesheet" media='screen and (min-width: 901px)' href="css/style.css" type="text/css"/>
+	<link rel="icon" type="image/png" sizes="32x32" href="https://storage.googleapis.com/lauchlinmac.appspot.com/fav
+	icon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="https://storage.googleapis.com/lauchlinmac.appspot.com/fav
+	icon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://storage.googleapis.com/lauchlinmac.appspot.com/fav
+	icon-16x16.png">
+	<title>Welcome to the Cin City Running Group Newsletter</title>
+</head>
+<body>
+	<section id="page">
+			<logo>	
+	<img src="./images/burgundy_logo.png"/>
+			</logo>
+			<header>
+			<h1>Newsletter</h1>
+			</header>
+			<dater>
+		Week Starting Feb 25	
+			</dater>
+	<main>
+	<hr/>
+	<h2>
+		Newsletter
+	</h2>
+	<p>
+	Obviously I've setup a new Newesletter to keep you up to date with all things happening in the Cin City Running Group.  I hope to have a weekly issue, unless news is too light to warrant it.   Feel free to find all Newsletters with the most current at the top, at <a href="http://newsletter.cincity.run">newsletter.cincity.run</a> anytime you want.
+	</p>
+	<h2>
+		Training in Full Swing
+	</h2>
+	<p>
+	Training for the <a href="http://flyingpigmarathon.com/">Flying Pig</a> is in full swing.   Week 9 has us running 8x800s at the track, while the long run is 9 and 16. (both of which we've done before).   As we get longer on these miles, it's important to stretch and roll before and after each run, especially the long runs.  This allows the built up lactic acid to be broken up, which helps with continuing to run injury-free.   Bring with it some strength training during your weeks - adding in some wall sits, planks, lunges or squats.  By building up your upper leg muscles, you are ensuring that you're addressing your entire leg, so that it's fully able to absorb the stress of these long runs.   The weaker your glutes or quads are, the more likely that stress is absorbed by other muscles, such as your ankles or calves.   You want to have the entire leg muscles working together to minimize the stress that's involved over such a long period of time.
+	</p>
+	<h2>
+		New Slack Server 
+	</h2>
+	<p> 
+	I've set up a new slack server for the running group. (<a href="https://join.slack.com/t/cincityrun/shared_invite/enQtMzE5NzkxMzA4ODMzLWY1YjliMDk2ZDc5N2JhY2E0NzQwYjVhNTAwMDExMWZhYTE1NmJiNWJhNjEwY2I4NjllZDVkMjdkMjkyNjIwOG">Join here</a>) The server has multiple channels for discussion on our group.   Post a photo or run summary to "#sharemyruns".   Ask a question in "#askaquestion".   Invite fellow runners to join you on an off day run in "#runinvites" or just talk about random things in "general".   I think this is a great place to share running discussion outside of our facebook group.  I will have a walkthrough on Sunday 3/4 at <a href="https://www.facebook.com/Kidd-Coffee-Wine-Bar-Mason-79836266919/">Kidd Coffee</a> time TBD for anyone interested.
+	</p>
+	<h2>
+		Couch to 5k Coming Soon
+	</h2>
+	<p>
+	Starting March 10, the kickoff to the couch to 5k programs begins.   We will be using an app and working together to make our way to the <a href="http://parkinsoncincinnati.org/steady-strides">Parkinson's Steady Strides</a> 5k on May 19, 2018.  If you've always wanted to run, but felt you were too "out of shape" or "not a runner", this program is for you.  We will be meeting up every Sunday at the Community Center, after the kick off to assess the past week of activities and to do the activity of the day together.   We'll also be talking about techniques and mindsets that you want to have for running.  Come out and join us!
+	</p>
+	<hr/>
+	</main>
+	<sidebar>
+	<h3>This Week - 2/25 to 3/3</h3>
+	<ul>
+		<li>Sunday - Recovery 3/5</li>
+		<li>Monday - Rest Day</li>
+		<li>Tuesday - Track 8x800s or Rest Day</li>
+		<li>Wednesday - Track 8x800s or Rest Day</li>
+		<li>Thursday - Tempo 3/5 - Thirsty Thursday@16 Lots</li>
+		<li>Friday - Easy Miles - 3/5</li>
+		<li>Saturday - Long Run 9/16</li>
+	</ul>
+	<h3>Upcoming Races</h3>
+		<ul>
+			<li><a href="https://www.bockfest.com">Bockfest 5k - March 3</a></li>			
+			<li><a href="http://www.pistolultra.com">Pistol Ultra - March 17</a></li>
+			<li><a href="https://runsignup.com/Race/OH/Maineville/RunfortheGreenTrailRun">Run for the Green Trail Run - March 17</a></li>
+			<li><a href="https://www.theshamrockshuffle.com/">Shamrock Shuffle - March 17</a></li>
+			<li><a href="http://www2.heart.org/site/PageServer?pagename=CincinnatiMini">Heart Mini - March 18</a></li>
+			<li><a href="https://www.carmelmarathon.com/">Carmel Marathon - March 31</a></li>
+		</ul>
+	</sidebar>
+	<foot>
+	<p>
+	Contact me: <a href="mailto:lauchlin.macgregor@cincity.run">lauchlin.macgregor@cincity.run</a>
+	<br/>
+	<a href="https://www.facebook.com/groups/1407686512587881/"><img src="images/fb.png"/></a><a href="https://twitter.com/cincityrun"><img src="images/twit.png"/></a><a href="https://www.instagram.com/cincityrun"><img src="images/ig.png"/></a>
+	</p>
+	</foot>
+	</section>
+</body>
+</html>
+
