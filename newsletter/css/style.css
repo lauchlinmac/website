@@ -119,6 +119,26 @@ p{
 #page > foot p{
 margin: 20px 10px;
 }
+
+@media only screen and (max-width: 750px){
+		#page{
+			display: grid;
+			width: 100%;
+			grid-template-areas: "logo"
+					      "header"
+					      "dater"
+					     "main"
+					      "sidebar"
+					     "foot";
+			font-family: "trebuchet ms";
+		        grid-row-gap: 5px;
+		}
+
+		#page > logo, #page > header, #page > dater, #page > main, #page > footer, #page > sidebar{
+			justify-self: center;
+			align-self: center;
+		}
+}
 /*a {
 	text-decoration: underline;
 	color: #444;
