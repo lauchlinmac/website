@@ -1,10 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
 body {
 	    background-color: #3562b5;
     }
 
 .container{
 	display: grid;
-	grid-template-columns: auto auto; 
+	grid-template-columns: auto auto;
 	grid-template-rows: auto auto;
 	align-content: center;
 	background-color: "#3562b5";
@@ -13,10 +18,26 @@ body {
 	grid-column: 1 / span 2;
 	grid-row: 1/2;
 	text-align: center;
+	width: 100vw;
+	height: 30vh;
+	overflow: hidden;
 }
 .item-b{
  	grid-column: 1/2;
 	grid-row: 2/2;
+	width: 70vw;
+	height: 70vh;
+	background-color: white;
+	padding: 5px;
+}
+
+.item-b h1{
+	border-bottom: 1px solid #3562b5;
+	margin-bottom: 10px;
+}
+.item-b p, .item-b h1 {
+	color: #3562b5;
+	font-family: 'Trebuchet MS'
 }
 .item-c{
 	grid-column: 2/2;
