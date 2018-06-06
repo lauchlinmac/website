@@ -17,7 +17,7 @@
 	color: #aaa;
 }
 .burgundy_sidebar{
-	color: 8b003c;
+	color: #8b003c;
 	background-color: #ed925b;
 }
 
@@ -122,6 +122,7 @@ hr{
 }
 h2,h3{
 	margin-left: 15px;
+	font-weight: bold;
 }
 p{
 	margin: 30px;
